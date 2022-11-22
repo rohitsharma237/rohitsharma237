@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitsharma237
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning  c,css,javascript
+- 👀 I’m interested in making project's
+- 🌱 I’m currently learned C,CSS,HTML,javascript
 - 💞️ I’m looking to collaborate on job and internship
 - 📫 How to reach me ...
 
